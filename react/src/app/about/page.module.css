@@ -1,0 +1,13 @@
+/* page.module.css */
+.about {
+    background: lightcoral;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    display: grid;
+}
