@@ -1,0 +1,11 @@
+.header{
+    width: 100%;
+    height: auto;
+    background-color: #0A192F;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-bottom: 2px solid #030a1f;
+}
+.img{
+    margin: 5px;
+}
